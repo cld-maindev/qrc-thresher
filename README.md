@@ -55,10 +55,10 @@ Triple-license:
 
 ## Documentation
 
-- [BUILD_SPEC.md](docs/BUILD_SPEC.md) — full build specification
-- [METHODOLOGY.md](docs/METHODOLOGY.md) — task definitions, circuit spec, statistical methodology
-- [REFERENCES.md](docs/REFERENCES.md) — reference literature
-- [DECISIONS.md](docs/DECISIONS.md) — decision log
+- [BUILD_SPEC.md](docs/BUILD_SPEC.md) — canonical engineering specification (what to do)
+- [METHODOLOGY.md](docs/METHODOLOGY.md) — long-form derivations and theoretical foundations (why)
+- [REFERENCES.md](docs/REFERENCES.md) — Literature Bar (Published / Tooling / Background / Forbidden)
+- [DECISIONS.md](docs/DECISIONS.md) — append-only decision log (ADRs)
 
 ## Citation
 
